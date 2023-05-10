@@ -18,3 +18,4 @@ I like working with teams and like taking on challenges.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BronzyChief&theme=bear&show_icons=true)
 
+![Metrics](https://metrics.lecoq.io/BronzyChief?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
