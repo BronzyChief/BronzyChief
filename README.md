@@ -6,12 +6,15 @@ My name is Emilio Vazquez, I’m a Computer Science Student at Tecnologico de Mo
 I am interested in programming and computer science, especially in game and app development.
 I like working with teams and like taking on challenges. 
 
-- 🌱 I’m currently learning **React, Javascript, Node**
+- 🌱 I’m currently learning **React, Javascript, Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emilio-vazquez22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emilio-vazquez22" height="30" width="40" /></a>
 <a href="https://instagram.com/theludoplex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theludoplex" height="30" width="40" /></a>
+  
+  [![Résumé](https://shields.io/badge/%F0%9F%93%84%20Résumé-crimson?style=for-the-badge)]([https://www.gonzalpi.com/resume.pdf](https://drive.google.com/file/d/1FJYgjpH95an4QpmW-zrXDGn_9JdxH5yc/view?usp=share_link))
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
