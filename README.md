@@ -1,9 +1,9 @@
-<h1 align="center">Howdy 👋, I'm Emilio (aka Bronzy)</h1>
+<h1 align="center">Howdy 👋, I'm Emilio Vazquez (aka Bronzy)</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
 Hello!
 My name is Emilio Vazquez, I’m a Computer Science Student at Tecnologico de Monterrey currently on my sixth semester.
-I am interested in programming and computer science, especially in game and app development.
+I am interested in programming and computer science, especially in game and front/back end app development.
 I like working with teams and like taking on challenges. 
 
 - 🌱 I’m currently learning **React, Javascript, Node.js**
