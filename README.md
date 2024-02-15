@@ -13,7 +13,7 @@ I like working with teams and like taking on challenges.
 <a href="https://linkedin.com/in/emilio-vazquez22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emilio-vazquez22" height="30" width="40" /></a>
 <a href="https://instagram.com/theludoplex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theludoplex" height="30" width="40" /></a>
   
-[![Résumé](https://shields.io/badge/%F0%9F%93%84%20My_CV!-crimson?style=for-the-badge)](https://drive.google.com/file/d/1FJYgjpH95an4QpmW-zrXDGn_9JdxH5yc/view?usp=share_link)
+[![Résumé](https://shields.io/badge/%F0%9F%93%84%20My_CV!-crimson?style=for-the-badge)](https://drive.google.com/file/d/1GkZtAWdKoMm3lPAQF7vJCifLep9s6p3I/view?usp=sharing)
 
   
 </p>
